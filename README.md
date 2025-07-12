@@ -1,7 +1,7 @@
-Role Name
+httpd
 =========
 
-A brief description of the role goes here.
+Ansible role to install httpd on servers.
 
 Requirements
 ------------
